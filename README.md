@@ -5,3 +5,4 @@
 | Debjit Dolui   | 002111001152 |   A3    |    IT      |  8   |
 | Ranar Sarkar   | 002111001156 |   A3    |    IT      |  8   |
 | Susanta Mandal | 002111001154 |   A3    |    IT      |  8   |
+| Subhankar Das  | 002111001149 |   A3    |    IT      |  8   |
